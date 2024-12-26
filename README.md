@@ -1,16 +1,25 @@
-## Hi there 👋
+_**Hi there 👋**_
 
-<!--
-**rjacobgray060822/rjacobgray060822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Jake, and I'm currently learning the ins and outs of GitHub!** 
 
-Here are some ideas to get you started:
+I'm excited to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **Grow my coding skills** 
+* 🚀 **Contribute to open-source projects** 
+* 💡 **Learn from the amazing GitHub community**
+* 🐱‍💻 **Build awesome projects** 
+
+**I'm focusing on:**
+
+* 🔍 **Improving my Git workflow** (branching, merging, etc.)
+* 📖 **Understanding GitHub Actions** 
+* ✨ **Exploring the power of GitHub Pages**
+
+**Feel free to connect with me!** 
+
+https://www.linkedin.com/in/jake-gray-76b50a134/)
+
+
+**P.S.** I'm always open to feedback and collaboration! 
+
+**#GitHubJourney #LearningToCode #OpenSource** 
