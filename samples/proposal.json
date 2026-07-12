@@ -1,0 +1,48 @@
+{
+  "client": {
+    "name": "Alex Rivera",
+    "address": "123 Meadow Lane, Springfield",
+    "email": "alex@example.com",
+    "phone": "555-0123"
+  },
+  "property": {
+    "size_sq_ft": 4800,
+    "description": "Front and back yard with perennial beds and mature trees."
+  },
+  "services": [
+    {
+      "name": "Mowing & Edging",
+      "description": "Weekly mowing during the growing season with clean edging.",
+      "frequency": "Weekly",
+      "price": 55.0
+    },
+    {
+      "name": "Seasonal Fertilization",
+      "description": "Four-application program with soil-friendly fertilizers.",
+      "frequency": "Quarterly",
+      "price": 95.0
+    },
+    {
+      "name": "Leaf Cleanup",
+      "description": "Fall cleanup visit with debris removal and haul away.",
+      "frequency": "Per visit",
+      "price": 120.0
+    }
+  ],
+  "schedule": {
+    "start_date": "2024-04-01",
+    "end_date": "2024-11-15",
+    "notes": "Weather delays will be communicated within 24 hours."
+  },
+  "pricing": {
+    "currency": "USD",
+    "discount": 0.05,
+    "additional_notes": "A 5% loyalty discount has been applied for the full season commitment."
+  },
+  "company": {
+    "name": "Green Horizons Landscaping",
+    "representative": "Jamie Patel",
+    "email": "hello@greenhorizons.test",
+    "phone": "555-9876"
+  }
+}
